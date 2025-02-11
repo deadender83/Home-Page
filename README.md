@@ -4,7 +4,6 @@
 - 🎓 Studying at St. Lawrence College
 - 💻 Skilled in C++, C#, Java, JavaScript, PHP, SQL, Lua, and Linux
 - 🚀 Aspiring Intelligence/Cyber Operator in the CAF
-- 🔧 Currently working on a multi-tenant Online Store Database
 
 ## 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/sam-cardo-82a71b279/)
