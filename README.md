@@ -7,8 +7,8 @@
 - 🔧 Currently working on a multi-tenant Online Store Database
 
 ## 📫 Connect with me
-[![GitHub](https://img.shields.io/badge/GitHub-sam--cardo-blue?logo=github)](https://github.com/sam-cardo)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/sam-cardo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/sam-cardo-82a71b279/)
+
 
 ---
 ### 🔥 GitHub Stats
