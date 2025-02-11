@@ -4,7 +4,7 @@
 🎓 Studying at St. Lawrence College  
 💻 Skilled in:  C++, C#, Java, JavaScript, PHP, SQL, Lua, Linux  
 
-![Coding GIF](https://github.com/your-username/your-repo-name/blob/main/assets/coding.gif)
+![Coding GIF](https://github.com/deadender83/Home-Page/blob/main/coding.gif)
 
 ---
 
