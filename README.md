@@ -9,10 +9,10 @@
 ## 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/sam-cardo-82a71b279/)
 
-
 ---
+
 ### 🔥 GitHub Stats
-![Sam's GitHub stats]![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deadender83&show_icons=true&theme=default)
+![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=deadender83&show_icons=true&theme=default)
 
 ### ⚡ Technologies & Tools
 ![C++](https://img.shields.io/badge/C++-blue?logo=c%2B%2B&logoColor=white)
