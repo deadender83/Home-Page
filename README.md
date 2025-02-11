@@ -12,7 +12,7 @@
 
 ---
 ### 🔥 GitHub Stats
-![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=sam-cardo&show_icons=true&theme=tokyonight)
+![Sam's GitHub stats]![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deadender83&show_icons=true&theme=default)
 
 ### ⚡ Technologies & Tools
 ![C++](https://img.shields.io/badge/C++-blue?logo=c%2B%2B&logoColor=white)
