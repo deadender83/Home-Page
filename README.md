@@ -9,7 +9,8 @@
 ---
 
 ## 📫 **Let's Connect!**  
-📧 **Email:** sam.cardo@example.com
+📧 **Email:** sam.cardo24@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sam-cardo-82a71b279/)  
 
 ---
 
