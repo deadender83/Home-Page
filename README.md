@@ -2,8 +2,9 @@
 ### 👨‍💻 Computer Programming Student | Tech Enthusiast
 
 - 🎓 Studying at St. Lawrence College
-- 💻 Skilled in C++, Java, JavaScript, PHP, SQL, Lua, and Linux
+- 💻 Skilled in C++, C#, Java, JavaScript, PHP, SQL, Lua, and Linux
 - 🚀 Aspiring Intelligence/Cyber Operator in the CAF
+- 🔧 Currently working on a multi-tenant Online Store Database
 
 ## 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/sam-cardo-82a71b279/)
@@ -15,6 +16,7 @@
 
 ### ⚡ Technologies & Tools
 ![C++](https://img.shields.io/badge/C++-blue?logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-orange?logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-purple?logo=php&logoColor=white)
