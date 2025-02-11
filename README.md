@@ -9,8 +9,7 @@
 ---
 
 ## 📫 **Let's Connect!**  
-📧 **Email:** [sam.cardo24@gmail.com](mailto:sam.cardo24@gmail.com)
-
+[![Gmail](https://img.shields.io/badge/Gmail-%20sam.cardo24%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:sam.cardo24@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sam-cardo-82a71b279/)  
 
 ---
