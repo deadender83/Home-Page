@@ -2,7 +2,7 @@
 ### 👨‍💻 Computer Programming Student | Tech Enthusiast
 
 - 🎓 Studying at St. Lawrence College
-- 💻 Skilled in C++, Java, JavaScript, PHP, SQL, and Linux
+- 💻 Skilled in C++, Java, JavaScript, PHP, SQL, Lua, and Linux
 - 🚀 Aspiring Intelligence/Cyber Operator in the CAF
 - 🔧 Currently working on a multi-tenant Online Store Database
 
@@ -21,3 +21,4 @@
 ![PHP](https://img.shields.io/badge/PHP-purple?logo=php&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-black?logo=linux&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-blue?logo=lua&logoColor=white)
