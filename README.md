@@ -23,7 +23,7 @@
 
 ---
 ### 🌟 **Featured Projects on My GitHub**
-- **[My Portfolio](https://github.com/deadender83/portfolio)** - Personal website built using GitHub Pages, HTML, and CSS.
+- **[My Portfolio](https://github.com/deadender83/portfolio)**
 
 ---
 
