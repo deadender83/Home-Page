@@ -1,3 +1,7 @@
+### **Hey My Name is Sam Cardo**
+
+---
+
 ### 👨‍💻 Computer Programming Student | Tech Enthusiast  
 🚀 Aspiring Intelligence/Cyber Operator in the CAF  
 🎓 Studying at St. Lawrence College  
