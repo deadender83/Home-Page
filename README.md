@@ -37,8 +37,8 @@
 
 ## 🎯 **Fun Facts About Me**  
 ✅ **Military-Driven Mindset:** I push myself to be at my best every day.  
-💪 **Fitness Enthusiast:** Working toward a **225 lb bench press** goal!  
-🕹 **Gaming & Modding:** I create **custom GMod Add-Ons.**
+💪 **Fitness Enthusiast:** Working toward a 225 lb bench press goal!  
+🕹 **Gaming & Modding:** I create custom GMod Add-Ons.
 
 ---
 
